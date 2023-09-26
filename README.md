@@ -34,5 +34,6 @@ Para ejecutar el programa, bastará con introducir el siguiente comando por la t
 
 En las siguientes imagenes, se muestra un ejemplo del uso y funcionamiento del programa:    
 
-![Ejemplo ejecucion menu 1](https://github.com/rmelgo/scripts-menus-unix/assets/145989723/0eec2d0f-43cb-4f2c-a6d5-42fb2bdd63e5)
-![Ejemplo ejecucion menu 2](https://github.com/rmelgo/scripts-menus-unix/assets/145989723/096b6ddc-86ae-40d6-be77-1fa83c1c3330)
+![Ejemplo ejecucion TAD 1](https://github.com/rmelgo/EDA-I-TAD-listas-pilas-colas/assets/145989723/5f527b4a-3d27-4f93-98de-728af93995e1)
+
+
