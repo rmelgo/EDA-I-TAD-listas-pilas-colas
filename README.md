@@ -35,5 +35,5 @@ Para ejecutar el programa, bastará con introducir el siguiente comando por la t
 En las siguientes imagenes, se muestra un ejemplo del uso y funcionamiento del programa:    
 
 ![Ejemplo ejecucion TAD 1](https://github.com/rmelgo/EDA-I-TAD-listas-pilas-colas/assets/145989723/5f527b4a-3d27-4f93-98de-728af93995e1)
-
+![Ejemplo ejecucion TAD 2](https://github.com/rmelgo/EDA-I-TAD-listas-pilas-colas/assets/145989723/6e063a0e-d0cb-4441-b6ab-ef3c8844d967)
 
