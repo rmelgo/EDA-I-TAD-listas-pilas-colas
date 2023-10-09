@@ -8,7 +8,7 @@ El principal objetivo de este proyecto es la implementación de los tipos abstra
 
 # - Comentarios sobre el material adjuntado
 
-La carpeta principal **TAD** cuenta con 3 subcarpetas llamadas ***listas***, ***colas*** y ***pilas***. Cada una de estas subcarpetas contiene un fichero .c con la implementacion del TAD correspdiente y un fichero .h de cabecera que define las funciones creadas.  
+La carpeta principal **TAD** cuenta con 3 subcarpetas llamadas ***listas***, ***colas*** y ***pilas***. Cada una de estas subcarpetas contiene un fichero .c con la implementación del TAD correspondiente y un fichero .h de cabecera que define las funciones creadas.  
 
 Adicionalmente, se incluye un fichero llamado *pruebaLista.c* que contiene un codigo para probar la correcta implementación de los TAD lista, pila y cola.  
 
@@ -24,7 +24,7 @@ Para compilar el fichero de pruebas, se utilizará el siguiente comando:
 
 ```make```
 
-Este comando generará un ejecutable llamado *./pruebaLista* a partir del fichero *pruebaLista.c* y las implementaciones de los TAD.
+Este comando generará un ejecutable llamado *pruebaLista* a partir del fichero *pruebaLista.c* y las implementaciones de los TAD.
 
 Para ejecutar el programa, bastará con introducir el siguiente comando por la terminal:
 
